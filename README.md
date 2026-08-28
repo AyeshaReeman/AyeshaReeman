@@ -35,7 +35,7 @@ AI-powered safe handoff project.
 
 ## 📊 GitHub Stats
 
-![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyeshaReeman&show_icons=true&theme=tokyonight)
+![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyeshaReeman&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
