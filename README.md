@@ -30,11 +30,6 @@
 ### 🛡️ SafeShift
 AI-powered safe handoff project.
 
-### ⛳ Golf Charity Platform
-A JavaScript-based project.
-
-### 💻 HACKAHOLICS
-A project focused on safe handoff using AI.
 
 ---
 
